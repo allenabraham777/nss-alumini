@@ -160,9 +160,9 @@ if (isset($_POST['verifyBadgeBtn'])) {
 ?>
 <html dir="<?php echo lang('html_dir'); ?>">
 <head>
-    <title><? echo lang('dashboard'); ?> | Wallstant</title>
+    <title><? echo lang('dashboard'); ?> | NSSCE AC</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Wallstant is a social network platform helps you meet new friends and stay connected with your family and with who you are interested anytime anywhere.">
+    <meta name="description" content="">
     <meta name="keywords" content="social network,social media,Wallstant,meet,free platform">
     <meta name="author" content="Munaf Aqeel Mahdi">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

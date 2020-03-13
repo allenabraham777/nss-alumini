@@ -17,9 +17,9 @@ if (is_dir("imgs/")) {
 ?>
 <html dir="<?php echo lang('html_dir'); ?>">
 <head>
-    <title><?php echo "Hashtag - ".$_GET['tag'];if($_GET['tag'] == 'search'){echo "Hashtag";} ?> | Wallstant</title>
+    <title><?php echo "Hashtag - ".$_GET['tag'];if($_GET['tag'] == 'search'){echo "Hashtag";} ?> | NSSCE AC</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Wallstant is a social network platform helps you meet new friends and stay connected with your family and with who you are interested anytime anywhere.">
+    <meta name="description" content="">
     <meta name="keywords" content="hashtag,social network,social media,Wallstant,meet,free platform">
     <meta name="author" content="Munaf Aqeel Mahdi">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

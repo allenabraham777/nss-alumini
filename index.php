@@ -21,9 +21,9 @@ include_once $path."langs/set_lang.php";
 ?>
 <html dir="<? echo lang('html_dir'); ?>">
 <head>
-    <title><? echo lang('welcome'); ?> | Wallstant</title>
+    <title><? echo lang('welcome'); ?> | NSSCE AC</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Wallstant is a social network platform helps you meet new friends and stay connected with your family and with who you are interested anytime anywhere.">
+    <meta name="description" content="">
     <meta name="keywords" content="homepage,main,login,social network,social media,Wallstant,meet,free platform">
     <meta name="author" content="Munaf Aqeel Mahdi">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,7 +32,7 @@ include_once $path."langs/set_lang.php";
     <body class="login_signup_body">
     <!--============[ Nav bar ]============-->
         <div class="login_signup_navbar">
-                <a href="index" class="login_signup_navbarLinks">Wallstant</a>
+                <a href="index" class="login_signup_navbarLinks">NSSCE AC</a>
                 <a href="#" class="login_signup_navbarLinks"><? echo lang('help'); ?></a>
                 <a href="#" class="login_signup_navbarLinks"><? echo lang('terms'); ?></a>
                 <a href="#" class="login_signup_navbarLinks"><? echo lang('privacyPolicy'); ?></a>
@@ -43,7 +43,7 @@ include_once $path."langs/set_lang.php";
         </div>
         <!--============[ main contains ]============-->
         <div class="login_signup_box">
-        <h3 align="center"><? echo lang('welcome_to'); ?> Wallstant</h3>
+        <h3 align="center"><? echo lang('welcome_to'); ?> NSS Alumni Connect</h3>
         <p align="center" style="color: #999; margin-bottom: 25px;"><? echo lang('wallstant_main_string'); ?>.</p>
             <div style="display: flex;">
                 <div style="width: 100%;">

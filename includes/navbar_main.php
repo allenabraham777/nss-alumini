@@ -32,7 +32,7 @@ if ($uCheckSessionCount == 0) {
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="<?php echo $dircheckPath; ?>home">Wallstant</a>
+            <a class="navbar-brand" href="<?php echo $dircheckPath; ?>home">NSSCE AC</a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="<?php echo lang('ul_navbar_nav1'); ?>">
