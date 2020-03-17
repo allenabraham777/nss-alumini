@@ -1,7 +1,7 @@
-# wallstant-the-open-source-PHP-social-network
-Create your own social network for free with Wallstant social network, easy to install and fast to use .. Make people connected
+# NSS College of Engineering Alumni Network
 
-<h3>Official wallstant website</h3>
+This project is built using Wallstant social network, wallstant is easy to install and fast to use .. Make people connected
+
 for more information about this open source PHP social network script : <br> 
 <a href='https://wallstant.github.io/'>https://wallstant.github.io/</a>
 <hr>
@@ -16,8 +16,3 @@ for more information about this open source PHP social network script : <br>
 	<li>Enjoy it.</li>
 </ol>
 <hr>
-
-## Contact me
-[Instagram](https://instagram.com/munafio) <br>
-[Facebook](https://facebook.com/munafio) <br>
-[Twitter](https://twitter.com/munaf_aqeel_m) <br>
